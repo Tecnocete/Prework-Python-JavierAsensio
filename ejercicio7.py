@@ -56,6 +56,5 @@ def main():
     
     print("El resultado es:", resultado)
 
-# Llamada a la función principal
 if __name__ == "__main__":
     main()
